@@ -1,2 +1,2 @@
 # NarzedziaProgramistyczne
- Semestr1
+ Semestr 1
